@@ -12,8 +12,18 @@ Se empieza agregando el título de la página (Semana 1) y seguido a eso se abre
 Las etiquetas utilizadas son:
 
 ```sh
-<h1> hasta <h4> para el título y subtítulos
-<p> para los párrafos 
-<li> para enlistar
-<ul> para las listas desordenadas
+<h1> Hasta <h4> para el título y subtítulos
+<p> Para los párrafos 
+<li> Para enlistar
+<ul> Para las listas desordenadas
+<br> Para hacer salto de línea
+<em> Para usar cursiva en énfasis semántico
+<b> Para usar negrita
+<strong> Para usar negrita con énfasis semántico
+<i> Para usar Cursiva.
 ```
+
+## Cuerpo
+
+Se añaden los objetivos y partes que componen un análisis FODA, además de sus características internas y externas como sus fortalezas, debilidades, oportunidades y amenazas. 
+
