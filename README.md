@@ -26,3 +26,9 @@ Las etiquetas utilizadas son:
 ## Cuerpo del texto
 
 Se añaden los objetivos y partes que componen un análisis FODA, además de sus características internas y externas como sus fortalezas, debilidades, oportunidades y amenazas. 
+
+## Datos alumno
+
+Nombre: Fariña Núñez Ian Franco
+Repo GitHub: https://github.com/ianfranfn/Desafio.01-FODA.git
+Netlify: https://bespoke-belekoy-b66ed1.netlify.app/
