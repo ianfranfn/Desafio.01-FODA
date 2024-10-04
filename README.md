@@ -23,7 +23,6 @@ Las etiquetas utilizadas son:
 <i> Para usar Cursiva.
 ```
 
-## Cuerpo
+## Cuerpo del texto
 
 Se añaden los objetivos y partes que componen un análisis FODA, además de sus características internas y externas como sus fortalezas, debilidades, oportunidades y amenazas. 
-
